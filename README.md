@@ -205,7 +205,7 @@ Understanding payment preferences helps improve customer experience and transact
 ## Dashboard Preview
 
 ### Main Dashboard
-![Blinkit Sales Dashboard]()
+![Blinkit Sales Dashboard](https://github.com/Samee512/Ecommerce-Sales-Analysis-Dashboard-/blob/main/Snapshot%20of%20dashboard.png)
 
 ## Conclusion
 
